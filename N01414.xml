@@ -122,8 +122,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:001681_0000_0FB4DC92E7FC01F8"/>
-            <pb facs="tcp:001681_0001_0FB4DC94066F85A0" rendition="simple:additions"/>
+            <pb facs="unknown:001681_0000_0FB4DC92E7FC01F8"/>
+            <pb facs="unknown:001681_0001_0FB4DC94066F85A0"
+                rendition="simple:additions"/>
             <p>ANDROBOROS A Bographical Farce In Three Acts, <hi>VIZ.</hi>
                <list>
                   <item>The SENATE,</item>
@@ -137,7 +138,8 @@
             </p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:001681_0002_0FB4DC95A957C550" rendition="simple:additions"/>
+            <pb facs="unknown:001681_0002_0FB4DC95A957C550"
+                rendition="simple:additions"/>
             <head>Drammatis Personae.</head>
             <list>
                <item>Androboros,</item>
@@ -162,7 +164,8 @@
             </p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:001681_0003_0FB4DC9AB17DE430" rendition="simple:additions"/>
+            <pb facs="unknown:001681_0003_0FB4DC9AB17DE430"
+                rendition="simple:additions"/>
             <head>The Dedication TO Don. Com. Fiz.</head>
             <opener>
                <salute>Right Dreadful SIR!</salute>
@@ -171,7 +174,7 @@
                <hi>CErdo Gloucestriensis,</hi> an Author of the last Century, of great Sagacity, observ<gap reason="illegible: missing" extent="1 letter">
                   <desc>•</desc>
                </gap>d well, That <hi>Runto Poli<g ref="char:EOLhyphen"/>munto Plumpismenoi Raperpandico</hi>— What d'ye stare at? This is good <hi>Greek</hi> for ought you know, and contains a Mystery, which shall continue so, unless you Reveal it; and so no more of that. The following <hi>Elionophysalo Fizlical Farce</hi> having fallen into my Hands by a most sur<g ref="char:EOLhyphen"/>prizing Accident, it seemeth meet unto me that it should, with all due Reverence Kiss yours. Here it lies at your Feet, take it up. Now read the first Act,—Have ye done? What's the matter Man? Have ye got the Gripes? A Plague on your Sower Faces. Bring him a Dram. What have have you to do, had you to do, or ought you to have to do with the <hi>Senate?</hi> You smell a Rat, you say. Be it so. But compose your self, and now Read the second Act,—How d'ye like it, ha? <hi>O Hooo, T'churrrrrrrrrtch,</hi> I can say that as Loud as you can do; and if you'll but leave out these Damnable <hi>R</hi>'s and <hi>T</hi>'s which make it so hard in Pronounciation, and harder in Digestion, I like it better than you do. You don't believe me! and I don't believe in you; and this is a perilous Article in a Mans Belief too; For one who dy'd a very good <hi>Christian,</hi> was sentenc'd by your
-<pb facs="tcp:001681_0004_0FB4DC9E838F5C98"/>
+<pb facs="unknown:001681_0004_0FB4DC9E838F5C98"/>
 Sanctity to be bury'd a <hi>Pagan,</hi> only because he seem'd to believe that you were some-what Thick of believing; yet you are a Christian, a very good Christian,</p>
             <l>So was your Leader, Major <hi>Weere,</hi>
             </l>
@@ -189,7 +192,7 @@ Sanctity to be bury'd a <hi>Pagan,</hi> only because he seem'd to believe that y
             <l>That I flatly and boldly Deny, Deny,</l>
             <l>That I flatly and boldy Deny.</l>
             <p>What is the Matter now? Is he Dead? or is't a Qualm? Holo, a Hay! Who waits there? some burn't Feathers, <hi>Sal Armoniack?</hi> No, No, Let him smell to the Skirt of his own Garment. So, he Recovers Poor <hi>Fiz!</hi> who could have thought that you were so quick of Smelling! Come, Man, take Courage; What have You or I to do with it? Let the Gall'd Horse wince,
-<pb facs="tcp:001681_0005_0FB4DCA00F4A3710"/>
+<pb facs="unknown:001681_0005_0FB4DCA00F4A3710"/>
 our Withers are unwrung. But tell me, will you be quiet for the Future? You shall be paid for't, nay, you have been paid for't; and it is hard that Men must be Brib'd for Not doing what they ought Not to do. I re<g ref="char:EOLhyphen"/>member an Odd Fellow upon <hi>Pont Neuf</hi> who got his Livelihood by as Odd a Stratagem; He procur'd him<g ref="char:EOLhyphen"/>self a Portable Forge and Bellows, which he carried under his Cloak, and having heated a small Iron red hot, he would lug it out and present it to the Gentlemen who pass'd that way, with this Complement, <hi>Good Sir! Pray Sir! give me leave to run my hot Iron into your Arse.</hi> When the Gentleman started at the Extravagance and Danger of the Motion, he continued, <hi>Nay, Sir, if you don't like it, pay me but a Sol Marquee for the heating of my Iron, and there is no harm d<gap reason="illegible: missing" extent="1 letter">
                      <desc>•</desc>
                   </gap>ne.</hi> Now had he insisted upon the Perform<g ref="char:EOLhyphen"/>ance of the Operation aforesaid, after payment for the necessary Apparatus, he deserv'd to have his Bones broke; but he was most commonly satisfied, and all the Conse<g ref="char:EOLhyphen"/>quence was a fit of Laughter. Now, I know that it is not an easie matter for you to get rid of your Forge and Bellows, but can't you blow your Bellows and heat your Iron at home, and quit that unaccountable Rage of Run<g ref="char:EOLhyphen"/>ing it into your honest quiet Neighbours Arses, who pay you amply, and meerly for Forbearance? But I have done. Peace be with ye, I mean such a one as he made who made you a COM-</p>
@@ -203,7 +206,7 @@ our Withers are unwrung. But tell me, will you be quiet for the Future? You shal
                <l>Which no Body can Deny.</l>
             </lg>
             <lg>
-               <pb facs="tcp:001681_0006_0FB4DCA31BD74220"/>
+               <pb facs="unknown:001681_0006_0FB4DCA31BD74220"/>
                <l>But when it Escapes from Canonical Hose</l>
                <l>And fly's in your Face, as it's odds it does,</l>
                <l>That a Man should be hang'd for stopping his Nose,</l>
@@ -238,7 +241,7 @@ our Withers are unwrung. But tell me, will you be quiet for the Future? You shal
       <body>
          <div type="play">
             <pb n="1"
-                facs="tcp:001681_0007_0FB4DCA489D188D8"
+                facs="unknown:001681_0007_0FB4DCA489D188D8"
                 rendition="simple:additions"/>
             <head>Androboros.</head>
             <div n="1" type="act">
@@ -274,7 +277,7 @@ our Withers are unwrung. But tell me, will you be quiet for the Future? You shal
                </div>
                <div n="2" type="scene">
                   <pb n="2"
-                      facs="tcp:001681_0008_0FB4DCAAD550CD68"
+                      facs="unknown:001681_0008_0FB4DCAAD550CD68"
                       rendition="simple:additions"/>
                   <head>Act First, Scene Second.</head>
                   <stage>Enter <hi>Doodlesack, Babilard, Solemn, Aesop,</hi> &amp;c.</stage>
@@ -353,7 +356,7 @@ Well spoke, Mr. Speaker, Tho' 'tis something strange that he who has ever affirm
                            <desc>〈…〉</desc>
                         </gap>. Wheter it may not be
 <pb n="3"
-                            facs="tcp:001681_0009_0FB4DCAD4F570080"
+                            facs="unknown:001681_0009_0FB4DCAD4F570080"
                             rendition="simple:additions"/>
 more Convenient that each Mansion have its proper Kitchin and Cellar under the special Direction of the respective Tenants?</p>
                      <p>To clear up the Necessity of this Method, I'll tell you what happ'ned to me t'other day; One of the Servants of this House, who brought me a Mess of Water Gruel, being my special Friend, and knowing how eagerly my Stomach stood towards what was forbidden me by the Phy<g ref="char:EOLhyphen"/>sitians, conveys a Hand of Pork into the Porrige, but being discover'd he was punisht, tho' he offer'd to take his Corporal Oath, That the Hand of Pork was a bunch of Radishes. But of all others, we of the East End of the Tenement suffer most, for by reason of our distance from the Kitchin, our Porrige is cold before it comes to our Hands. To Remedy this, we fell upon a private Intercourse with the <hi>Bethlemites</hi> on the other side of <hi>Moor-fields,</hi> who by virtue of their Charter run at large, by which we broke the Laws pretty Comfortably for a season; but these same subtle Fellows of the Kitchin found it out, and put a stop to't, to the Great Prejudice of the Freedom of the Subject, and the direct Discouragement of our indirect Commerce. I Remember we once Address'd our Superiors, That we might have a Servant of our own, independent of this Plaguey <hi>Keeper</hi>; They were Graciously pleas'd to allow us such a one, with this Restriction only, That the Ser<g ref="char:EOLhyphen"/>vant aforesaid might have the Custody of our Straw and Water, but by no means of our Meat and Drink; notwithstanding this, the Keeper will not permit him to take the care and Custody of our Victuals and Drink. What! does<g ref="char:punc">▪</g> he think us <hi>Non Corpus Mentlus,</hi> that we do not know the meaning of plain words! But <hi>I</hi> shall Conclude at this time, with this Exhortation, That since it appears plainly, that we of this Tenement, who are Tenants thereof, are in danger of Being, by the Foundations laid, made Tenants therein, let us not lie Crying thereat, but be Valiant Therefore, and Vindicate our Rights There-from, Our Birth-Right Parliamentary Rights, settled upon us by the Ten Com<g ref="char:EOLhyphen"/>mandments.</p>
@@ -379,7 +382,7 @@ Mr. <hi>Speaker</hi> Proposes, That to prevent Confusion, not above Three or Fou
                               <desc>••</desc>
                            </gap>
                         </hi> Represents, That he is quite Dum-founded by the late fall
-<pb n="4" facs="tcp:001681_0010_0FB4DCB0806201D8"/>
+<pb n="4" facs="unknown:001681_0010_0FB4DCB0806201D8"/>
 of Stocks, so in Order to the opening his Mouth, he proposes a Law for raising Int'rest to <hi>Twelve per Cent.</hi>
                      </p>
                      <p>
@@ -450,7 +453,7 @@ of Stocks, so in Order to the opening his Mouth, he proposes a Law for raising I
                      <p>I desire to be heard.</p>
                   </sp>
                   <sp>
-                     <pb n="5" facs="tcp:001681_0011_0FB4DCB14C924AD0"/>
+                     <pb n="5" facs="unknown:001681_0011_0FB4DCB14C924AD0"/>
                      <speaker>All.</speaker>
                      <p>With-draw.</p>
                   </sp>
@@ -552,7 +555,7 @@ of Stocks, so in Order to the opening his Mouth, he proposes a Law for raising I
                   </sp>
                   <sp>
                      <pb n="6"
-                         facs="tcp:001681_0012_0FB4DCB2C5FC6110"
+                         facs="unknown:001681_0012_0FB4DCB2C5FC6110"
                          rendition="simple:additions"/>
                      <speaker>Speaker.</speaker>
                      <p>What is then your pleasure with relation to the Member who is to be Expell'd?</p>
@@ -637,7 +640,7 @@ of Stocks, so in Order to the opening his Mouth, he proposes a Law for raising I
                            </gap>sagkimaghswoughsayk, Savanagh<gap reason="illegible: indecipherable" extent="1 letter">
                               <desc>•</desc>
                            </gap>ipheugh,</hi> and <hi>Bowwougewouffe,</hi> I have undertaken an Expedition against the <hi>Mulo Machiaus,</hi> your Inveterate Foes. Your Concurrence to enable me to carry it on with Success, is what I demand and expect; and for your Incouragement, I do Swear by this sacred Image, not to pare these Nails, wash this blew Visage,
-<pb n="7" facs="tcp:001681_0013_0FB4DCB50EC35BA0"/>
+<pb n="7" facs="unknown:001681_0013_0FB4DCB50EC35BA0"/>
 or put off this speckled <hi>Shirt,</hi> Until I have made that Haughly Monarch Confess himself, in all his Projects for Universal Dominion, my Inferior, and My Delamya, fairer then the fairest Princess of his Blood or Empire. So leaving this weighty Affair to your wise Counsels, We bid you heartily Farewell.
 <stage>Exit Strutting.</stage>
                      </p>
@@ -718,7 +721,7 @@ or put off this speckled <hi>Shirt,</hi> Until I have made that Haughly Monarch 
                         <l>His Folly more then half the Field.</l>
                      </lg>
                      <lg>
-                        <pb n="8" facs="tcp:001681_0014_0FB4DCB952D64BD0"/>
+                        <pb n="8" facs="unknown:001681_0014_0FB4DCB952D64BD0"/>
                         <l>Grown Wiser by repeated Woes,</l>
                         <l>The Bees thought fit to change their Chief,</l>
                         <l>It was a <hi>Humble Bee</hi> they Chose,</l>
@@ -803,7 +806,7 @@ or put off this speckled <hi>Shirt,</hi> Until I have made that Haughly Monarch 
             </div>
             <div n="2" type="act">
                <pb n="9"
-                   facs="tcp:001681_0015_0FB4DCC326E55A08"
+                   facs="unknown:001681_0015_0FB4DCC326E55A08"
                    rendition="simple:additions"/>
                <head>Act Second,</head>
                <div n="1" type="scene">
@@ -877,7 +880,7 @@ or put off this speckled <hi>Shirt,</hi> Until I have made that Haughly Monarch 
                            <desc>•</desc>
                         </gap>se are so shallow
 <pb n="10"
-                            facs="tcp:001681_0016_0FB4DCC5886A5BA0"
+                            facs="unknown:001681_0016_0FB4DCC5886A5BA0"
                             rendition="simple:additions"/>
 that a Louse may suck 'em up without surfeiting, which <gap reason="illegible: indecipherable" extent="1 span">
                            <desc>〈…〉</desc>
@@ -966,7 +969,7 @@ that a Louse may suck 'em up without surfeiting, which <gap reason="illegible: i
                      <speaker>Aesop.</speaker>
                      <p>I Resent this Affront to the Long Robe as much as any Man, but methinks you proceed too hastily, and upon too slender Grounds against your Keeper. We all know the Malice of Mr. <hi>Fizle's</hi> heart,
 <pb n="11"
-                            facs="tcp:001681_0017_0FB4DCC7088584C0"
+                            facs="unknown:001681_0017_0FB4DCC7088584C0"
                             rendition="simple:additions"/>
 and that it has Increas'd in proportion to the Keepers good Nature. Had he been oftner Check'd, he had been less Troublesome to himself and us. Let us not provoke our Keeper; for my part, I think he is a good one.</p>
                   </sp>
@@ -1021,7 +1024,7 @@ and that it has Increas'd in proportion to the Keepers good Nature. Had he been 
                   </sp>
                </div>
                <div n="3" type="scene">
-                  <pb n="12" facs="tcp:001681_0018_0FB4DCC8891B9E88"/>
+                  <pb n="12" facs="unknown:001681_0018_0FB4DCC8891B9E88"/>
                   <head>Act Secon<gap reason="illegible: indecipherable" extent="1 letter">
                         <desc>•</desc>
                      </gap> Scene Third.</head>
@@ -1161,7 +1164,7 @@ To the most Potent Lord <hi>Oinobaros,</hi> Court of <hi>Kynommati<gap reason="i
                   </sp>
                   <sp>
                      <pb n="13"
-                         facs="tcp:001681_0019_0FB4DCCA7629A960"
+                         facs="unknown:001681_0019_0FB4DCCA7629A960"
                          rendition="simple:additions"/>
                      <speaker>Aesop.</speaker>
                      <p>How's that?</p>
@@ -1329,7 +1332,7 @@ To the most Potent Lord <hi>Oinobaros,</hi> Court of <hi>Kynommati<gap reason="i
                      </p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:001681_0020_0FB4DCD183C9ECC8"/>
+                     <pb n="14" facs="unknown:001681_0020_0FB4DCD183C9ECC8"/>
                      <speaker>Coxcomb.</speaker>
                      <p>Have a care what you say; Th<gap reason="illegible: missing" extent="1 letter">
                            <desc>•</desc>
@@ -1437,7 +1440,7 @@ To the most Potent Lord <hi>Oinobaros,</hi> Court of <hi>Kynommati<gap reason="i
                         <l>Burst when he only meant to swell,</l>
                         <l>Soon after these Events.</l>
                         <l>
-                           <pb n="15" facs="tcp:001681_0021_0FB4DCD6B3175498"/>Be that as 'twill, 'twas He that drew</l>
+                           <pb n="15" facs="unknown:001681_0021_0FB4DCD6B3175498"/>Be that as 'twill, 'twas He that drew</l>
                         <l>That giddy Senseless Crowd to new</l>
                         <l>Sedition and Complaints.</l>
                      </lg>
@@ -1497,7 +1500,7 @@ To the most Potent Lord <hi>Oinobaros,</hi> Court of <hi>Kynommati<gap reason="i
                   <sp>
                      <p>RIght Frightful and Formidable, We Greet you Well, And by this Acquaint you, That for many Weighty Considerations Us thereunto moving, We have thought fit to adjourn the Indended Expe<g ref="char:EOLhyphen"/>dition to a more proper season, because we have, upon due and Ma<g ref="char:EOLhyphen"/>ture Examination been fully convinc'd, that the <hi>Mulomachians,</hi> our Re<g ref="char:EOLhyphen"/>puted Enemies, are in very deed our good and faithful Friends and Allies, who, to remove all Doubts and Scruples, have freely offer'd to Consoli<g ref="char:EOLhyphen"/>date Consistories with us, as also to divide with us the Commerce of the World, generously resigning and yeilding to us that of the two Poles, reserving to themselves only what may lie between e'm. They have likewise Condescended that we shall keep some Forts and Holds, which by the Fortune of the War they could not take from us, and have
 <pb n="16"
-                            facs="tcp:001681_0022_0FB4DCD89C75EB50"
+                            facs="unknown:001681_0022_0FB4DCD89C75EB50"
                             rendition="simple:additions"/>
 promis'd and engag'd to Raze and Demolish some Places in their Possession to our prejudice, so soon as more Convenient are built in their <gap reason="illegible: indecipherable" extent="1 letter">
                            <desc>•</desc>
@@ -1580,7 +1583,7 @@ promis'd and engag'd to Raze and Demolish some Places in their Possession to our
                      <speaker>Aesop.</speaker>
                      <p>And you would have more. Law or Custom make an Inch to an Ell very fair allowance; you, it seems, want an Ell to an inch. I wish your Stint might be some how ascertain'd; but that, I doubt, cannot easily be compass'd. And whosoever, by giving hopes to find an end of your Craving will find himself deceiv'd, I'll tell you a Tale to this</p>
                      <lg>
-                        <pb n="17" facs="tcp:001681_0023_0FB4DCD9C8F1A858"/>
+                        <pb n="17" facs="unknown:001681_0023_0FB4DCD9C8F1A858"/>
                         <l>The Rats, a Tribe much better fed</l>
                         <l>Then taught, that mortally abhor'd</l>
                         <l>To work, lov'd ease and eating, fled</l>
@@ -1655,7 +1658,7 @@ promis'd and engag'd to Raze and Demolish some Places in their Possession to our
                      <p>That is not to be hop'd for whilst he lives.</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:001681_0024_0FB4DCDB4B3C7318"/>
+                     <pb n="18" facs="unknown:001681_0024_0FB4DCDB4B3C7318"/>
                      <speaker>Tom.</speaker>
                      <p>Persuade him that he is dead then.</p>
                   </sp>
@@ -1764,7 +1767,7 @@ And so, (as I was saying<g ref="char:punc">▪</g>) with that Name in his Mouth 
                   <stage>Enter Tom.</stage>
                   <sp>
                      <pb n="19"
-                         facs="tcp:001681_0025_0FB4DCDCC2C56190"
+                         facs="unknown:001681_0025_0FB4DCDCC2C56190"
                          rendition="simple:additions"/>
                      <speaker>Tom.</speaker>
                      <p>I have Instructed the Porter, and the other Servants, and have proclaim'd to all, the General remains <hi>Incognito,</hi> until he makes his Publick Entry, and that no notice is to be taken of him<g ref="char:punc">▪</g> more then if he were Absent, under the Pain of his highest Displeasure.</p>
@@ -1874,7 +1877,7 @@ And so, (as I was saying<g ref="char:punc">▪</g>) with that Name in his Mouth 
                   </sp>
                   <sp>
                      <pb n="20"
-                         facs="tcp:001681_0026_0FB4DCE591628408"
+                         facs="unknown:001681_0026_0FB4DCE591628408"
                          rendition="simple:additions"/>
                      <speaker>Aesop.</speaker>
                      <p>There is a Chair, What then?
@@ -1958,7 +1961,7 @@ And so, (as I was saying<g ref="char:punc">▪</g>) with that Name in his Mouth 
                      <speaker>Androb.</speaker>
                      <p>'TIs Strange, Wondrous strange, I should take the whole to be a Trick, were it not that my best, my firmest Friends, who never could be Induc'd to practice upon me in this gross manner, behave themselves to my Face as if they saw me not. Whilst I sate at that Table, That only Raskal, <hi>Solemn</hi> saw me, and started and star'd as if he had seen a Ghost; The rest saw nothing. They were talking of my Disease, Death, Burial and latter Will, as of things certain, and of publick knowledge. I think I'm pretty sure that I am Alive, tho' it seems, I am singular in that belief. I See, I Feel, I Hear as I us'd to do, ev'n now I hear my own Voice as plain as can be; I have Thought and Reflection as usual. But, Alas! departed Spirits if they think at all, must think that they do think, that is, that they are not dead, — It may be so — Ev'n that very Knave who but now could see me, sits musing by himself as if if I were not here. I Remember it was the Common Opinion that a Ghost that walks, could
 <pb n="21"
-                            facs="tcp:001681_0027_0FB4DCE74A498F68"
+                            facs="unknown:001681_0027_0FB4DCE74A498F68"
                             rendition="simple:additions"/>
 be seen but by One of a Company. But why should he be blind now?
 <stage>Walks nearer.</stage>
@@ -2050,7 +2053,7 @@ Sure something is Amiss, what-e'er it is. Now he has lost Sight of Me again.</p>
                      <p>Lest the Odious Name of Conjurer should be fixt upon me, and I (such is the prevailing Ignorance and Envy of the Age) instead of being Reverenc'd for my Science be hang'd for a Wizzard.</p>
                   </sp>
                   <sp>
-                     <pb n="22" facs="tcp:001681_0028_0FB4DCE8E2AEB150"/>
+                     <pb n="22" facs="unknown:001681_0028_0FB4DCE8E2AEB150"/>
                      <speaker>
                         <hi>And<gap reason="illegible: missing" extent="1 letter">
                               <desc>•</desc>
@@ -2111,7 +2114,7 @@ Sure something is Amiss, what-e'er it is. Now he has lost Sight of Me again.</p>
                      </p>
                      <l>
                         <pb n="23"
-                            facs="tcp:001681_0029_0FB4DCEA63698188"
+                            facs="unknown:001681_0029_0FB4DCEA63698188"
                             rendition="simple:additions"/>
 Whenas <hi>Old Nick-N<gap reason="illegible: indecipherable" extent="1 letter">
                               <desc>•</desc>
@@ -2212,7 +2215,7 @@ Whenas <hi>Old Nick-N<gap reason="illegible: indecipherable" extent="1 letter">
                      <p>Thank you for <gap reason="illegible: indecipherable" extent="1 span">
                            <desc>〈…〉</desc>
                         </gap> him, and have our Curiosity
-<pb n="24" facs="tcp:001681_0030_0FB4DCEF0AAA0E88"/>
+<pb n="24" facs="unknown:001681_0030_0FB4DCEF0AAA0E88"/>
 answer'd as yours was. But we know that it depends in <gap reason="illegible: indecipherable" extent="1 letter">
                            <desc>•</desc>
                         </gap> great mea<g ref="char:EOLhyphen"/>sure on the Keeper, and you of late are more <gap reason="illegible: indecipherable" extent="1 span">
@@ -2278,7 +2281,7 @@ Are you there with your Bears? I shall be up with you. I'll go find out <hi>Sole
                      <stage>Enter <hi>Aesop.</hi>
                      </stage>
                      <p>Pray get all in order for this same Entry; Neglect not that part of the Ranking of them, which I, by <hi>Tom,</hi> recommended to you. I'll Equip the General, and dispose him for his Triumph: In the mean
-<pb n="25" facs="tcp:001681_0031_0FB4DCF8711B74F8"/>
+<pb n="25" facs="unknown:001681_0031_0FB4DCF8711B74F8"/>
 while do you Intertain 'em with a Tale, or how you please, until he comes.</p>
                   </sp>
                   <sp>
@@ -2381,7 +2384,7 @@ It is done?</p>
                   </sp>
                   <sp>
                      <pb n="26"
-                         facs="tcp:001681_0032_0FB4DCFAD3ED3A10"
+                         facs="unknown:001681_0032_0FB4DCFAD3ED3A10"
                          rendition="simple:additions"/>
                      <speaker>Aesop.</speaker>
                      <p>I'll keep as distant as I can, that I may be at Ease; <hi>Fizle's</hi> Phiz always gives me the Chollick. I know not why he should be suffer'd to walk at Large, to the Detriment of his Majestys Leige People, whilst so many of his Species up and down the World are Insty'd, Inkennel'd, Impounded or Incloyster'd. Did you ever hear how that same about? I'll tell you, if you please.</p>
@@ -2463,7 +2466,7 @@ I'll have the Villian Hang'd; Dog, Raskal, Rogue, Scoundrel.</p>
                      <p>Hold, Hold; Help! Help! Help!</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:001681_0033_0FB4DCFC58A39E00"/>
+                     <pb n="27" facs="unknown:001681_0033_0FB4DCFC58A39E00"/>
                      <speaker>Keeper.</speaker>
                      <p>What's the meaning of this?</p>
                   </sp>
